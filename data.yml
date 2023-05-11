@@ -1,0 +1,77 @@
+---
+- name: Simple, Free, Useful Telegram Bots for Changemakers
+  description: Activate your creativity. Send us your ideas for telegram bots that can help your mission.
+  url: "https://bots4good.org/"
+  filters: [telegram-bots, about, moto]
+  categories: [About]
+  tags: [ABOUT]
+
+- name: Tech4GoodBot
+  description: Tech4Good Forum is a community-driven platform for social change, where changemakers, social entrepreneurs, and tech enthusiasts come together to discuss and share their knowledge and experiences around technology for social good. Get notifications about the latest discussions, events, job opportunities, skilling programs, and toolkits directly on your Telegram app.
+  url: "https://telegram.me/Tech4GoodBot"
+  filters: [open-source, bot, tech4goodbot]
+  categories: [Bots List]
+  tags: [114 Chats]
+
+- name: IDR Online English Bot
+  description: Stay up-to-date with the latest articles and insights from India Development Review (IDR), a leading platform for insights and analysis on social impact and innovation. Get notifications every time a new English article is posted on the IDR website, directly on your Telegram app.
+  url: "https://telegram.me/Idronline_english_bot"
+  filters: [open-source, bot, IDR-English-Bot]
+  categories: [Bots List]
+  tags: [13 Chats]
+
+- name: IDR Online Hindi Bot
+  description: हिंदी भाषी दर्शकों के लिए, हमारे पास एक बॉट है जो IDR वेबसाइट पर हिंदी में नया आलेख पोस्ट होने पर हर बार सूचनाएं भेजता है। भारत डेवलपमेंट रिव्यू (IDR), एक सोशल इम्पैक्ट और इनोवेशन पर विचारों और विश्लेषण करने के लिए एक अग्रणी मंच से नवीनतम लेखों और दृष्टिकोणों से अपडेट रहें। अपने टेलीग्राम ऐप पर हर बार जब भी एक नया हिंदी आलेख IDR वेबसाइट पर पोस्ट होता है, सीधे सूचनाएं प्राप्त करें।
+  url: "https://telegram.me/Idr_online_hindi_bot"
+  filters: [open-source, bot, IDR-Hindi-Bot]
+  categories: [Bots List]
+  tags: [16 Chats]
+
+- name: Subscribe to the bot
+  description: To start receiving notifications, simply click on the link to the bot you're interested in and hit the "Start" button.
+  url: "https://te.legra.ph/file/0af6a0f0aaccd138f6b60.mp4"
+  filters: [subscribe, bot]
+  categories: [Videos]
+  tags: [VIDEO]
+
+- name: Receive Notifications
+  description: Once you've subscribed to a bot, you'll receive notifications every time a new article is posted on the IDR website (for the English and Hindi bots) or when there is a new post or discussion on the Tech4Good forum (for the Tech4Good bot). You can choose to receive notifications in real-time or at a frequency that works for you.
+  url: "https://te.legra.ph/file/13392b8a5476def816766.mp4"
+  filters: [notifications, bot]
+  categories: [Videos]
+  tags: [VIDEO]
+
+- name: Interactive Menu buttons
+  description: We have connected menu commands with useful resources. So, go ahead and click on each button to explore the connected websites and forums!
+  url: "https://te.legra.ph/file/60821c2cf7e2d594ca6c9.mp4"
+  filters: [menu-buttons, bot]
+  categories: [Videos]
+  tags: [VIDEO]
+
+- name: Jinso Raj
+  description: Full stack Developer Fellow at Tech4Good. Developed Tech4Good Bot.
+  url: "https://www.linkedin.com/in/jinsoraj/"
+  filters: [developer, tech4goodbot]
+  categories: [Team]
+  tags: [DEV]
+
+- name: Lily Sneha Lakra
+  description: Front-End Developer Fellow at Tech4Good. Developed IDR Online English Bot.
+  url: "https://www.linkedin.com/in/lily-sneha-lakra/"
+  filters: [developer, idr-english-bot]
+  categories: [Team]
+  tags: [DEV]
+
+- name: Megha Jibhakate
+  description: Front-End Developer Fellow at Tech4Good. Developed IDR Online Hindi Bot.
+  url: "https://www.linkedin.com/in/megha-jibhakate/"
+  filters: [developer, idr-hindi-bot]
+  categories: [Team]
+  tags: [DEV]
+
+- name: Support Chat
+  description: Activate your creativity. Send us your ideas for telegram bots that can help your mission.
+  url: "https://telegram.me/tech4goodlabs/11"
+  filters: [support-chat, telegram-group]
+  categories: [Support]
+  tags: [FOSS]
