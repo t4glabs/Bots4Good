@@ -73,5 +73,12 @@
   description: Activate your creativity. Send us your ideas for telegram bots that can help your mission.
   url: "https://telegram.me/tech4goodlabs/11"
   filters: [support-chat, telegram-group]
-  categories: [5. Support]
+  categories: [6. Support]
   tags: [GROUP]
+
+  - name: Give a Feedback
+  description: Please submit your feedback through the above link or via @T4GSupportBot in Telegram.
+  url: "https://ee.kobotoolbox.org/x/rnjlrTur"
+  filters: [feedback, form]
+  categories: [5. Reviews]
+  tags: [REVIEW]
