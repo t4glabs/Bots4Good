@@ -76,7 +76,7 @@
   categories: [6. Support]
   tags: [GROUP]
 
-  - name: Give a Feedback
+- name: Give a Feedback
   description: Please submit your feedback through the above link or via @T4GSupportBot in Telegram.
   url: "https://ee.kobotoolbox.org/x/rnjlrTur"
   filters: [feedback, form]
